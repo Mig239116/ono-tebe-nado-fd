@@ -284,7 +284,7 @@
 .about__column:last-child {
   display: flex;
   flex-direction: column;
-  gap: 0px; 
+  gap: 0px;
   padding-top: 100px;
   padding-right: 5px;
 }
