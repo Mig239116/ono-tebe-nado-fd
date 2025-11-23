@@ -71,7 +71,6 @@
 
 .header__address {
   position: absolute;
-  display: flex;
   width: 240px;
   height: 98px;
   right: 50px;
@@ -202,9 +201,9 @@
 }
 
 .lots {
-  width: 1100px;
-  margin: 0 auto 180px;
-  padding: 0 50px;
+  width: 1052px;
+  margin: 0 auto 120px;
+  padding: 0 24px;
 }
 
 .lots__heading {
@@ -306,9 +305,9 @@
 
 .about {
   position: relative;
-  width: 1100px;
+  width: 1052px;
   height: 595px;
-  margin: 0 auto 180px;
+  margin: 0 auto;
 }
 
 .about__column:first-child {
